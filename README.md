@@ -6,7 +6,7 @@ I lead products where the data is sensitive, the legacy systems are everywhere, 
 
 - **BA Toolkit** (in progress): Claude skills for requirements, user stories and status reports, based on BABOK.
 - **Food Rescue Pickup Planner** (in progress): a web app matching restaurant surplus with volunteer drivers.
-- **Food Rescue Dispatch Agent** (in progress): drafts daily pickup routes for a person to approve.
+- **Food Rescue Dispatch Agent** (in discovery): drafts daily pickup routes for a person to approve.
 
 ## How I work
 
